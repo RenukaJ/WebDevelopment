@@ -1,0 +1,19 @@
+img {
+	width: 30%;
+	float: left; /*to remove space between images*/
+	margin: 1.66%; /*remaining 10% from width*3 images is divided 10/6*/
+}
+
+p {
+	font-family: Raleway;
+	font-size: 23px;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 2px solid #e2146a;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+a:hover {
+	color: orange;
+}
